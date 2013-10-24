@@ -35,7 +35,8 @@
     "nodeunit": "~0.7.4",
     "rimraf": "~2.1.4",
     "mkdirp": "~0.3.5",
-    "stream-bench": "~0.1.2"
+    "stream-bench": "~0.1.2",
+    "node-int64": "~0.3.0"
   },
   "keywords": [
     "archive",
